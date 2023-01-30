@@ -1,0 +1,23 @@
+{
+  "name": "week-6-war",
+  "version": "1.0.0",
+  "description": "",
+  "main": "deck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgoodestudio/Week_6-War_Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgoodestudio/Week_6-War_Game/issues"
+  },
+  "homepage": "https://github.com/alexgoodestudio/Week_6-War_Game#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
